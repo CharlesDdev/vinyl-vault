@@ -7,13 +7,13 @@ png)
 
 Vinyl Vault is a personal project – a record collection tracking app built for vinyl heads like myself.  Inspired by the love of crate digging, the feel of wax in your hands, and the *need* to know exactly what bangers are in your collection, this app lets you catalog, organize, and explore your precious vinyl hoard.  Think Discogs, but tailored to *your* collection and built with code!
 
-As an aspiring software developer. I wanted a project that combined my love for music (especially sample-worthy vinyl) with my growing coding skills.  Plus, let's be real, keeping track of records on a spreadsheet is straight-up *weak*.
+As an aspiring software developer. I wanted a project that combined my love for music (especially sample-worthy vinyl) with my growing coding skills.  Plus, let's be real, keeping track of records on a spreadsheet is straight-up *WHACK*!.
 
 ## Features That'll Make You Say "Word Up!"
 
 *   **Add Records:**  Manually input record details (Artist, Title, Label, Year, Genre, etc.) or, if you're feeling fancy, integrate with the Discogs API to pull info automatically! (Future development, yo!)
 *   **Browse Your Collection:**  Sort and filter your records by any field.  Find that rare groove you've been searching for in seconds.
-*   **Detailed Record View:** See all the info about a record, plus add personal notes (e.g., "Killer sample on B2!", "Found this at a dusty shop in Gainesville").
+*   **Detailed Record View:** See all the info about a record, plus add personal notes (e.g., "Killer sample on B2!", "Found this at a dusty shop in St. Pete").
 *   **Wishlist:** Keep track of the records you're hunting for.  Never double-buy again!  (We've all been there...)
 *   **Stats:** See cool stats about your collection (e.g., total records, most common genre, average year).  Bragging rights are important!
 *   **User Authentication:** (Future Feature) Securely manage your collection and potentially share it with other users (if you're feeling generous).
@@ -33,7 +33,7 @@ Why these technologies? Well...
 
 ## Installation: Getting Started is Easy Peasy
 
-1.  Clone the repository: `git clone [your-repo-url]`
+1.  Clone the repository: `git clone https://github.com/CharlesDdev/vinyl-vault.git`
 2.  Install dependencies:  \[*Specific instructions for installing dependencies - e.g., `npm install`, `pip install -r requirements.txt`*]
 3.  Configure the database: \[*Instructions on setting up the database*]
 4.  Run the application:  \[*Instructions on running the app - e.g., `python app.py`, `npm start`*]
