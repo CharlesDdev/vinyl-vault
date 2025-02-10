@@ -33,22 +33,22 @@ By starting with these technologies, I'll build a strong foundation in web devel
 
 ## Installation: Getting Started is Easy Peasy
 
-# Clone the repository
+## Clone the repository
 git clone https://github.com/your-repo/vinyl-vault.git
 
-# Navigate into the project directory
+## Navigate into the project directory
 cd vinyl-vault
 
-# Create a virtual environment
+## Create a virtual environment
 python3 -m venv venv
 
-# Activate the virtual environment
+## Activate the virtual environment
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-# Install dependencies
+## Install dependencies
 pip install -r requirements.txt
 
-# Run the application
+## Run the application
 flask run
 
 ## Contributing:  Let's Build Something Dope Together!
