@@ -1,0 +1,43 @@
+application/cache/
+
+# Dependencies
+/node_modules/
+
+# Compiled output
+/dist
+/.angular
+
+# IDEs and editors
+/.idea
+/.vscode
+*.swp
+*.swo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
+
+# Test coverage
+/coverage
+
+# e2e
+/e2e/*.js
+/e2e/*.map
+
+# Miscellaneous
+/.sass-cache
+/connect.lock
+/libpeerconnection.log
+testem.log
+/typings
+
+
+
