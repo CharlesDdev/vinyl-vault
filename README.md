@@ -21,39 +21,45 @@ As an aspiring software developer. I wanted a project that combined my love for 
 
 This project is built using the following technologies:
 
-*   **Frontend:** [Angular]
-*   **Backend:** [Python]
+*   **Frontend:** [HTML/CSS]
+*   **Backend:** [Python/Flask]
 *   **Database:** [TBD]
 *   **Version Control:** Git (of course!)
 
 Why these technologies? Well...
 
-* Angular's component-based architecture is like building with LEGO blocks—each piece (component) represents a specific part of the app. This makes the code modular, reusable, and easy to maintain, which is perfect for me (a beginners learning to organize their projects efficiently). I'm also using Python for the backend because I'm learning Python and it's a great framework for building APIs.
+Hopefully I'll learn both backend (Python/Flask) and frontend (HTML/CSS) skills simultaneously. These technologies are widely used in the industry, giving me practical knowledge applicable to real-world projects. The simplicity of this stack ensures that I’ll see results quickly, keeping me motivated.
+By starting with these technologies, I'll build a strong foundation in web development while keeping things manageable and fun! Once I'm comfortable, I'll explore more advanced tools like Angular or React for frontend interactivity or Django for larger-scale backend projects.
 
 ## Installation: Getting Started is Easy Peasy
 
-1.  Clone the repository: `git clone https://github.com/CharlesDdev/vinyl-vault.git`
-2.  Install dependencies:
-    1.	Angular Material: Install using `ng add @angular/material`
-	  2.	HammerJS: For gesture recognition (included with Angular Material installation)
-	  3.	Browser animations for Angular Material (included with Angular Material         installation)
-	  4.	Moment.js: For date and time manipulation, install using `npm install --save moment`
-	  5.	RxJS: Already bundled with Angular, no additional installation required
-      
-    ** Additionally, you may need to include the following in your project:
-    
-	1. Node.js and npm: For managing project dependencies
- 	2. Angular CLI: For creating and managing the Angular project structure
-	3. Configure the database: \[*Instructions on setting up the database*]
-	4. Run the application:  \[*Instructions on running the app - e.g., `python app.py`, `npm start`*]
+# Clone the repository
+git clone https://github.com/your-repo/vinyl-vault.git
+
+# Navigate into the project directory
+cd vinyl-vault
+
+# Create a virtual environment
+python3 -m venv venv
+
+# Activate the virtual environment
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the application
+flask run
 
 ## Contributing:  Let's Build Something Dope Together!
 
 This is a personal project, but I'm always open to suggestions, bug reports, and contributions! If you're a fellow vinyl enthusiast, a coding ninja, or just someone who wants to help make this app better, feel free to:
 
 *   Fork the repository
+*   Make changes and commit them with clear messages.
 *   Submit pull requests with bug fixes or new features
 *   Open issues to report bugs or suggest improvements
+  
 
 ## Future Development:  Where We're Headed 🚀
 
