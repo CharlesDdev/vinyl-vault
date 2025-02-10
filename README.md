@@ -8,7 +8,7 @@ Vinyl Vault is a personal project – a record collection tracking app built for
 
 As an aspiring software developer. I wanted a project that combined my love for music (especially sample-worthy vinyl) with my growing coding skills.  Plus, let's be real, keeping track of records on a spreadsheet is straight-up *WHACK*!
 
-## Features That'll Make You Say "Word Up!"
+## Features That'll Make You Say "Word?!"
 
 *   **Add Records:**  Manually input record details (Artist, Title, Label, Year, Genre, etc.) or, if you're feeling fancy, integrate with the Discogs API to pull info automatically! (Future development, yo!)
 *   **Browse Your Collection:**  Sort and filter your records by any field.  Find that rare groove you've been searching for in seconds.
