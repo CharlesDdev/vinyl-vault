@@ -33,9 +33,18 @@ Why these technologies? Well...
 ## Installation: Getting Started is Easy Peasy
 
 1.  Clone the repository: `git clone https://github.com/CharlesDdev/vinyl-vault.git`
-2.  Install dependencies:  \[*Specific instructions for installing dependencies - e.g., `npm install`, `pip install -r requirements.txt`*]
-3.  Configure the database: \[*Instructions on setting up the database*]
-4.  Run the application:  \[*Instructions on running the app - e.g., `python app.py`, `npm start`*]
+2.  Install dependencies:
+    1.	Angular Material: Install using `ng add @angular/material`
+	  2.	HammerJS: For gesture recognition (included with Angular Material installation)
+	  3.	Browser animations for Angular Material (included with Angular Material         installation)
+	  4.	Moment.js: For date and time manipulation, install using `npm install --save moment`
+	  5.	RxJS: Already bundled with Angular, no additional installation required
+    
+Additionally, you may need to include the following in your project:
+	  1.	Node.js and npm: For managing project dependencies
+	  2.	Angular CLI: For creating and managing the Angular project structure
+    3.  Configure the database: \[*Instructions on setting up the database*]
+    4.  Run the application:  \[*Instructions on running the app - e.g., `python app.py`, `npm start`*]
 
 ## Contributing:  Let's Build Something Dope Together!
 
