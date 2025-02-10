@@ -22,13 +22,13 @@ As an aspiring software developer. I wanted a project that combined my love for 
 This project is built using the following technologies:
 
 *   **Frontend:** [Angular]
-*   **Backend:** [TBD]
+*   **Backend:** [Python]
 *   **Database:** [TBD]
 *   **Version Control:** Git (of course!)
 
 Why these technologies? Well...
 
-* I'm using Python for the backend because I'm learning Python and it's a great framework for building APIs.
+* Angular's component-based architecture is like building with LEGO blocks—each piece (component) represents a specific part of the app. This makes the code modular, reusable, and easy to maintain, which is perfect for me (a beginners learning to organize their projects efficiently). I'm also using Python for the backend because I'm learning Python and it's a great framework for building APIs.
 
 ## Installation: Getting Started is Easy Peasy
 
