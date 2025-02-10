@@ -6,7 +6,7 @@
 
 Vinyl Vault is a personal project – a record collection tracking app built for vinyl heads like myself.  Inspired by the love of crate digging, the feel of wax in your hands, and the *need* to know exactly what bangers are in your collection, this app lets you catalog, organize, and explore your precious vinyl hoard.  Think Discogs, but tailored to *your* collection and built with code!
 
-As an aspiring software developer. I wanted a project that combined my love for music (especially sample-worthy vinyl) with my growing coding skills.  Plus, let's be real, keeping track of records on a spreadsheet is straight-up *WHACK*!.
+As an aspiring software developer. I wanted a project that combined my love for music (especially sample-worthy vinyl) with my growing coding skills.  Plus, let's be real, keeping track of records on a spreadsheet is straight-up *WHACK*!
 
 ## Features That'll Make You Say "Word Up!"
 
