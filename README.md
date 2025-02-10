@@ -1,7 +1,6 @@
 # Vinyl Vault: Your Digital Record Keepa' 🎶
 
-![App Screenshot](https://github.com/user-attachments/assets/89bb2f6a-182c-4df0-842a-bf46391c6ecf)
-png) 
+![App Screenshot](https://github.com/user-attachments/assets/89bb2f6a-182c-4df0-842a-bf46391c6ecf) 
 
 ## Yo, What's This All About?
 
