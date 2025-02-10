@@ -39,11 +39,13 @@ Why these technologies? Well...
 	  3.	Browser animations for Angular Material (included with Angular Material         installation)
 	  4.	Moment.js: For date and time manipulation, install using `npm install --save moment`
 	  5.	RxJS: Already bundled with Angular, no additional installation required
+      
+    ** Additionally, you may need to include the following in your project:
     
-Additionally, you may need to include the following in your project:											  1.	Node.js and npm: For managing project dependencies
-	  2.	Angular CLI: For creating and managing the Angular project structure
-	  3.  Configure the database: \[*Instructions on setting up the database*]
-	  4.  Run the application:  \[*Instructions on running the app - e.g., `python app.py`, `npm start`*]
+	1. Node.js and npm: For managing project dependencies
+ 	2. Angular CLI: For creating and managing the Angular project structure
+	3. Configure the database: \[*Instructions on setting up the database*]
+	4. Run the application:  \[*Instructions on running the app - e.g., `python app.py`, `npm start`*]
 
 ## Contributing:  Let's Build Something Dope Together!
 
