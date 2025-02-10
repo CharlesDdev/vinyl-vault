@@ -23,7 +23,7 @@ This project is built using the following technologies:
 
 *   **Frontend:** [HTML/CSS]
 *   **Backend:** [Python/Flask]
-*   **Database:** [TBD]
+*   **Database:** [MongoDB with Atlas Search ]
 *   **Version Control:** Git (of course!)
 
 Why these technologies? Well...
